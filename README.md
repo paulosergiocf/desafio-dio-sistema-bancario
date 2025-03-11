@@ -5,7 +5,7 @@ Este repositório foi criado para entrega de desafio de códio da DIO referente 
 
 # Desafio
 
-- [ ] Estabelecer o limite de 10 transações no dia para uma conta.
-- [ ] informar o usuario quando exceder o limite de transações do dia.
-- [ ] Mostrar no extrato a data e hora de transações.
+- [x] Estabelecer o limite de 10 transações no dia para uma conta.
+- [x] informar o usuario quando exceder o limite de transações do dia.
+- [x] Mostrar no extrato a data e hora de transações.
 
