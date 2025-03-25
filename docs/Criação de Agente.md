@@ -6,7 +6,7 @@ Primeiro acessar o admin do power shell para criar um ambiente de desenvolviment
 
 - [admin.powerplatform](https://admin.powerplatform.microsoft.com/home)
 
-![[Pasted image 20250325125437.png]]
+![image](https://github.com/user-attachments/assets/5a29c233-b316-4966-be7c-ad89edc9c194)
 
 
 Uma vez que esteja logado na plataforma, acessar no menu lateral a opção **Ambientes**  e em seguida opção **novo**.
@@ -16,14 +16,13 @@ Uma vez que esteja logado na plataforma, acessar no menu lateral a opção **Amb
 
 Preencha as informações solicitadas.
 
-![[Pasted image 20250325125716.png]]
-
+![image](https://github.com/user-attachments/assets/1b09b537-03ee-48ce-9e5a-d55c7ac5d9d1)
 
 Uma vez preenchidas as informações e criado o ambiente, ele pode ser visualizado e gerenciado na tela de Ambientes.
 
 Uma vez criado a ambiente pode ser visualizado e gerenciado na tela Ambientes.
+![image](https://github.com/user-attachments/assets/6cdce988-fa00-4835-bdd6-ecb70e69dc61)
 
-![[Pasted image 20250325130118.png]]
 
 > No meu caso como não marquei a opção dataverse, precisei adiciona-la editando o ambiente depois de criado.
 > É uma opção que precisa ser ativada para criação de agentes.
@@ -32,11 +31,13 @@ Uma vez criado a ambiente pode ser visualizado e gerenciado na tela Ambientes.
 
 acessar o [copilot studio](https://copilotstudio.microsoft.com/)
 
-![[Pasted image 20250325130507.png]]
+![image](https://github.com/user-attachments/assets/acb5f97f-b7de-4c59-9b87-9eff156a58da)
 
-No menu lateral seleciono  a opção agente.
+No menu lateral selecione  a opção agente > criar.
 
-![[Pasted image 20250325131618.png]]
+![image](https://github.com/user-attachments/assets/9e870fcd-3d4e-4e8d-a5e6-085d647951f6)
+
+
 
 ## Teste Chat
 
@@ -56,10 +57,7 @@ No menu lateral seleciono  a opção agente.
 > 4. **Agência Nacional de Águas (ANA)**: Para questões relacionadas a corpos d'água, a ANA pode ser consultada.    
 > Recomendo entrar em contato com esses órgãos para obter orientações específicas sobre o processo de autorização e garantir que todas as normas ambientais sejam seguidas.
 
-
 > Você disse: o que a legislação diz sobre isso?
-
-
 
 > O bot disse: A legislação brasileira é bastante rigorosa quanto à proteção de áreas próximas a corpos d'água. De acordo com o Código Florestal (Lei nº 12.651/2012), existem Áreas de Preservação Permanente (APPs) que devem ser protegidas, incluindo as margens de rios.
 > As APPs são áreas protegidas, cobertas ou não por vegetação nativa, com a função ambiental de preservar os recursos hídricos, a paisagem, a estabilidade geológica e a biodiversidade, além de proteger o solo e assegurar o bem-estar das populações humanas.
